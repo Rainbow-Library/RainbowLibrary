@@ -1,0 +1,651 @@
+# RAINBOW GENERAL LICENCE
+
+**Asset Use, Licensing, Community Safety, Accountability, and Safeguarding**
+
+**Licensor:** Rainbow Library
+
+## 1. Purpose and Principles
+
+The Rainbow General Licence ("Licence") establishes the conditions under which assets created, commissioned, owned, controlled, or distributed by the Rainbow Library ("Rainbow Library Assets") may be used.
+
+The Rainbow Library exists to support LGBTQ+ people, creative communities, education, accessibility, community-building, and safer participation in social virtual reality.
+
+Rainbow Library also recognises that a community describing itself as LGBTQ+, inclusive, welcoming, progressive, charitable, or a "safe space" does not by itself demonstrate that the community is safe.
+
+Safety must be demonstrated through conduct.
+
+The Rainbow Library therefore places safeguarding above:
+
+* popularity;
+* friendship;
+* community status;
+* personal connections;
+* financial relationships;
+* commercial opportunities;
+* partnerships;
+* reputation;
+* political convenience;
+* social influence;
+* audience size;
+* previous collaboration; and
+* fear of upsetting another community.
+
+Rainbow Library Assets must not be used to lend legitimacy, credibility, financial value, promotional value, or institutional appearance to communities that present a substantial and unresolved safeguarding risk.
+
+**Access is not permission.
+Popularity is not accountability.
+Identity is not immunity.
+Profit does not override safeguarding.
+Safeguarding comes first.**
+
+## 2. Rainbow Library as a Safety-First Community
+
+The Rainbow Library intends to maintain a safety-first environment within VRChat and the wider social-VR ecosystem.
+
+The Rainbow Library seeks to distinguish itself through:
+
+* evidence-based safeguarding decisions;
+* transparent standards;
+* willingness to investigate credible concerns;
+* refusal to protect individuals merely because they are popular or influential;
+* separation of personal relationships from safeguarding decisions;
+* resistance to financial pressure;
+* responsible moderation;
+* protection against retaliation;
+* appropriate escalation of serious concerns; and
+* willingness to withdraw support when continued association creates an unacceptable safeguarding risk.
+
+No online community can guarantee absolute safety.
+
+Accordingly, the Rainbow Library does not claim that misconduct can never occur within its spaces.
+
+Instead, its commitment is that credible safeguarding concerns will not knowingly be ignored merely because addressing them is inconvenient, financially disadvantageous, socially difficult, or damaging to a partnership.
+
+Communities using Rainbow Library Assets are expected to demonstrate comparable responsibility.
+
+## 3. Assets Covered
+
+Rainbow Library Assets may include, without limitation:
+
+* 3D models;
+* textures;
+* materials;
+* artwork;
+* graphics;
+* logos;
+* branding;
+* VRChat world assets;
+* prefabs;
+* environments;
+* scripts;
+* documentation;
+* promotional materials;
+* derivative assets;
+* community resources; and
+* other creative works designated as Rainbow Library Assets.
+
+Unless expressly licensed otherwise, all rights are reserved.
+
+## 4. Permission Required
+
+Prior written permission from the Rainbow Library or its authorised representative is required before Rainbow Library Assets may be used.
+
+Permission may be required for:
+
+* VRChat worlds;
+* avatars;
+* virtual environments;
+* games;
+* community spaces;
+* events;
+* promotional material;
+* fundraising;
+* commercial activity;
+* modification;
+* redistribution;
+* derivative works;
+* organisational use; and
+* community access.
+
+Possessing, downloading, copying, viewing, or otherwise technically obtaining an asset does not itself create permission to use it.
+
+No implied licence is granted.
+
+## 5. Safeguarding as a Condition of Licensing
+
+Every licence is conditional upon continued compliance with Rainbow Library safeguarding standards.
+
+A licence may be refused, restricted, suspended, or revoked where the Rainbow Library reasonably determines that use of its assets would create, contribute to, legitimise, finance, conceal, or materially increase a substantial safeguarding risk.
+
+This principle applies regardless of whether the relevant community describes itself as:
+
+* LGBTQ+;
+* queer;
+* trans;
+* inclusive;
+* progressive;
+* conservative;
+* apolitical;
+* educational;
+* charitable;
+* social;
+* commercial;
+* a support community; or
+* a safe space.
+
+No identity label exempts a community from safeguarding scrutiny.
+
+## 6. Predatory, Abusive, and Exploitative Conduct
+
+Relevant safeguarding concerns may include credible evidence of:
+
+* sexual abuse;
+* grooming;
+* predatory behaviour;
+* sexual exploitation;
+* exploitation of vulnerable persons;
+* coercion;
+* intimidation;
+* blackmail;
+* stalking;
+* harassment;
+* threats;
+* abuse of authority;
+* manipulation;
+* retaliation;
+* deliberate targeting of vulnerable individuals;
+* facilitation of access to vulnerable persons; or
+* knowingly enabling such behaviour.
+
+The Rainbow Library may also consider whether community leadership knew, reasonably should have known, or received credible warnings about such conduct and failed to respond appropriately.
+
+## 7. Knowingly Supporting Persons Presenting Serious Safeguarding Risks
+
+A community may create a safeguarding concern not only through direct misconduct but through material support given to others.
+
+Relevant conduct may include knowingly or recklessly:
+
+* financing a person credibly established to have engaged in serious predatory or abusive behaviour;
+* financially benefiting such a person;
+* purchasing services for the primary purpose of sustaining or rehabilitating their community position;
+* providing paid positions despite unresolved serious safeguarding concerns;
+* directing donations toward them;
+* providing infrastructure, audiences, events, promotional access, or organisational resources;
+* using community funds to shield them from consequences;
+* helping them re-enter spaces from which they were removed for legitimate safeguarding reasons; or
+* facilitating continued access to vulnerable community members.
+
+An allegation alone is not sufficient.
+
+The seriousness, credibility, corroboration, context, and available evidence must be considered.
+
+However, once credible and material evidence exists, deliberate ignorance may itself become relevant to a licensing decision.
+
+## 8. Wilful Ignorance and Safeguarding Avoidance
+
+The Rainbow Library may consider it a serious safeguarding concern where a community receives credible information about significant misconduct and chooses not to meaningfully assess it.
+
+This may include:
+
+* refusing to review available evidence;
+* suppressing reports without examination;
+* repeatedly dismissing credible complainants without documented justification;
+* destroying or concealing relevant records;
+* discouraging witnesses from speaking;
+* instructing moderators not to investigate;
+* retaliating against reporters;
+* banning discussion solely to protect leadership;
+* misrepresenting what an investigation established;
+* pretending no evidence exists when decision-makers have reviewed credible material;
+* deliberately avoiding documentation so leadership can claim ignorance; or
+* maintaining a relationship because acknowledging the evidence would threaten revenue, memberships, partnerships, donations, attendance, or reputation.
+
+A community is not required to accept every allegation as true.
+
+It is, however, expected to distinguish responsible scepticism from deliberate refusal to engage with credible evidence.
+
+## 9. Profit Must Not Override Safeguarding
+
+Commercial interest does not excuse safeguarding failures.
+
+The Rainbow Library may refuse or revoke licensing where credible evidence indicates that a community or its leadership has prioritised financial benefit over the reasonable protection of community members.
+
+Relevant circumstances may include:
+
+* continuing a profitable partnership despite serious unresolved safeguarding concerns;
+* suppressing reports to preserve event revenue;
+* protecting high-spending members from ordinary moderation standards;
+* overlooking misconduct by donors, sponsors, creators, performers, developers, moderators, or partners;
+* retaining individuals because they generate traffic or revenue;
+* allowing financial contributions to influence disciplinary decisions;
+* misleading members about safeguarding risks to protect income;
+* exploiting community trust for improper financial gain; or
+* continuing to financially support individuals after serious misconduct has been credibly established without adequate remediation.
+
+Financial success does not transform unsafe conduct into acceptable conduct.
+
+## 10. Nepotism, Favouritism, and Conflicts of Interest
+
+The Rainbow Library recognises that social-VR communities often involve friendships, relationships, partnerships, shared projects, and close personal networks.
+
+Those relationships are not inherently improper.
+
+They become relevant where they interfere with fair safeguarding decisions.
+
+A licensing concern may arise where leadership or moderators:
+
+* protect close friends from enforcement;
+* protect romantic partners;
+* protect business partners;
+* protect donors or sponsors;
+* protect influential creators;
+* protect moderators or staff because of personal loyalty;
+* apply materially different standards depending on social status;
+* allow accused individuals to control investigations concerning themselves;
+* assign investigations exclusively to close associates of an accused person;
+* suppress evidence because of personal relationships;
+* retaliate against people who report friends of leadership; or
+* manipulate rules to preserve an existing social or financial hierarchy.
+
+Where a material conflict of interest exists, responsible communities should take reasonable steps to separate the conflicted individual from the relevant safeguarding decision.
+
+## 11. Selective Enforcement
+
+Safeguarding policies must not exist only on paper.
+
+A community may be considered higher risk where it publicly advertises strong safeguarding standards but repeatedly refuses to apply those standards to:
+
+* leadership;
+* staff;
+* moderators;
+* developers;
+* creators;
+* performers;
+* donors;
+* sponsors;
+* popular users;
+* financially valuable users;
+* friends of leadership; or
+* partner communities.
+
+Rules applied only to people with little social power are not meaningful safeguarding rules.
+
+## 12. LGBTQ+ Communities and Accountability
+
+The Rainbow Library is an LGBTQ+ organisation and recognises the importance of LGBTQ+ community spaces.
+
+It also recognises that LGBTQ+ communities are not automatically immune from:
+
+* abuse;
+* exploitation;
+* grooming;
+* harassment;
+* financial misconduct;
+* nepotism;
+* moderation failures;
+* conflicts of interest;
+* retaliation;
+* predatory behaviour; or
+* institutional self-protection.
+
+Criticism of documented safeguarding failures within an LGBTQ+ community is not inherently criticism of LGBTQ+ people.
+
+The Rainbow Library rejects the idea that legitimate safeguarding concerns should be suppressed merely because exposing those concerns could cause embarrassment to an LGBTQ+ organisation or community.
+
+Protecting LGBTQ+ people includes being willing to confront misconduct occurring within LGBTQ+ spaces.
+
+Solidarity does not require silence.
+
+Community protection does not mean protecting organisations from accountability.
+
+## 13. Identity-Neutral Enforcement
+
+Licensing decisions must be based on conduct, evidence, safeguarding risk, and compliance rather than protected characteristics.
+
+No applicant is automatically excluded because they are:
+
+* transgender;
+* cisgender;
+* non-binary;
+* LGBTQ+;
+* heterosexual;
+* religious;
+* non-religious;
+* politically progressive;
+* politically conservative;
+* of a particular ethnicity;
+* disabled;
+* neurodivergent; or
+* a member of another demographic group.
+
+Likewise, identifying as LGBTQ+, inclusive, progressive, charitable, or community-focused does not automatically establish good conduct.
+
+**Identity neither proves wrongdoing nor provides immunity from accountability.**
+
+## 14. Evidence Standards
+
+The Rainbow Library should distinguish between:
+
+* verified findings;
+* documented incidents;
+* credible and corroborated reports;
+* credible but unresolved reports;
+* disputed allegations;
+* rumours;
+* speculation;
+* malicious claims; and
+* demonstrably false claims.
+
+An allegation does not automatically establish misconduct.
+
+Safeguarding assessments may consider:
+
+* seriousness;
+* credibility;
+* corroboration;
+* recency;
+* frequency;
+* context;
+* documentary evidence;
+* witness accounts;
+* public records;
+* admissions;
+* moderation records;
+* patterns of behaviour;
+* corrective action;
+* cooperation;
+* remediation; and
+* subsequent conduct.
+
+The Rainbow Library should not knowingly describe unresolved allegations as established facts.
+
+## 15. Credible Evidence Cannot Be Ignored for Convenience
+
+Where credible information indicates a serious safeguarding risk, a licensee should take reasonable steps to understand and address that risk.
+
+"No formal conviction exists" is not, by itself, a complete safeguarding assessment.
+
+Likewise, social popularity, friendship, community status, lack of public controversy, or the absence of platform enforcement does not automatically establish that no safeguarding risk exists.
+
+Safeguarding decisions may reasonably use a different evidential threshold from criminal proceedings, provided conclusions are proportionate and allegations are accurately characterised.
+
+## 16. Community-to-Community Responsibility
+
+The Rainbow Library expects communities using its assets not to knowingly facilitate harm against other communities.
+
+Relevant misconduct may include:
+
+* organised harassment;
+* coordinated intimidation;
+* blackmail;
+* doxxing;
+* impersonation;
+* sabotage;
+* malicious retaliation;
+* manipulation of inter-community disputes;
+* knowingly false safeguarding allegations;
+* attempts to silence witnesses; or
+* campaigns designed to isolate individuals who raised legitimate safeguarding concerns.
+
+Competition, disagreements, criticism, or ordinary disputes between communities do not by themselves constitute safeguarding misconduct.
+
+## 17. No Reputation Laundering
+
+Rainbow Library Assets must not be used primarily to create the appearance that an individual, organisation, event, world, or community has been certified safe by the Rainbow Library.
+
+A licence is not:
+
+* a safeguarding certification;
+* an endorsement;
+* proof of innocence;
+* proof that no misconduct has occurred;
+* sponsorship;
+* partnership;
+* approval of leadership; or
+* permanent confirmation of good standing.
+
+Where circumstances materially change, licensing may be reconsidered.
+
+## 18. Safeguarding Reviews
+
+The Rainbow Library may conduct reasonable safeguarding reviews relating to prospective or existing licensees.
+
+Reviews may consider publicly available information concerning:
+
+* VRChat communities;
+* public groups;
+* public events;
+* community leadership;
+* public moderation actions;
+* public statements;
+* websites;
+* social-media activity;
+* documented safeguarding incidents;
+* relevant partnerships; and
+* publicly observable financial or organisational relationships.
+
+The purpose of any review must remain connected to legitimate licensing or safeguarding concerns.
+
+The Rainbow Library does not claim authority to conduct unlawful surveillance, harassment, hacking, doxxing, or unlawful collection of private information.
+
+## 19. Reporting Concerns
+
+Individuals and communities may report safeguarding concerns regarding current or prospective licensees.
+
+Reports should, where reasonably possible, provide:
+
+* a description of the conduct;
+* approximate dates;
+* relevant individuals or communities;
+* supporting evidence;
+* links or records;
+* contextual information; and
+* whether an immediate risk exists.
+
+Reports should not be knowingly fabricated or maliciously submitted to interfere with another community.
+
+Knowingly false safeguarding allegations may themselves constitute serious misconduct.
+
+## 20. Protection Against Retaliation
+
+Licensees must not retaliate against people merely because they:
+
+* report safeguarding concerns;
+* cooperate with a legitimate investigation;
+* provide evidence;
+* request moderation assistance;
+* leave a community;
+* refuse participation;
+* criticise safeguarding practices in good faith; or
+* exercise lawful rights.
+
+Retaliation may itself constitute grounds for suspension or revocation.
+
+## 21. Suspension and Revocation
+
+A licence may be suspended or revoked where:
+
+* this Licence has been materially breached;
+* materially false information was supplied;
+* serious safeguarding misconduct is credibly established;
+* a licensee knowingly facilitates prohibited conduct;
+* leadership knowingly ignores a substantial safeguarding risk;
+* retaliation occurs;
+* significant conflicts of interest compromise safeguarding;
+* financial incentives materially compromise enforcement;
+* the licensee attempts to circumvent restrictions; or
+* continued licensing creates a substantial and unresolved safeguarding risk.
+
+Where immediate action is reasonably necessary to reduce serious harm, the Rainbow Library may temporarily suspend permission while relevant circumstances are reviewed.
+
+## 22. Remediation and Change
+
+The purpose of safeguarding is protection, not permanent punishment for every historical mistake.
+
+Where appropriate, the Rainbow Library may consider:
+
+* acknowledgement of wrongdoing;
+* removal of responsible persons;
+* independent moderation;
+* changes to governance;
+* conflict-of-interest procedures;
+* safeguarding training;
+* transparent corrective action;
+* restitution;
+* cooperation with investigations;
+* cessation of harmful financial relationships;
+* sustained behavioural improvement; and
+* other meaningful remediation.
+
+An isolated historical incident does not necessarily create permanent ineligibility.
+
+However, superficial rebranding does not constitute remediation.
+
+Changing a:
+
+* community name;
+* Discord server;
+* VRChat group;
+* organisation;
+* project;
+* leadership title;
+* brand;
+* account; or
+* platform
+
+does not automatically erase an existing safeguarding concern.
+
+## 23. Anti-Circumvention
+
+No person or organisation may circumvent a licensing refusal, suspension, or revocation by:
+
+* using another person's account;
+* establishing a replacement organisation;
+* transferring nominal ownership;
+* obtaining assets through an intermediary;
+* disguising the true licensee;
+* forming a nominally separate partner organisation; or
+* otherwise indirectly obtaining permission that has been expressly refused.
+
+Circumvention may itself justify further restrictions.
+
+## 24. Community Responsibility
+
+Communities using Rainbow Library Assets should maintain moderation and reporting systems proportionate to their size, purpose, and risk profile.
+
+A meaningful safeguarding system should be capable of addressing misconduct even when the accused person is:
+
+* popular;
+* influential;
+* a founder;
+* a moderator;
+* a donor;
+* financially important;
+* a developer;
+* a creator;
+* a partner;
+* personally close to leadership; or
+* publicly associated with the community's reputation.
+
+The more power a person holds, the greater the importance of independent scrutiny.
+
+## 25. Financial Transparency and Community Trust
+
+Where money materially intersects with safeguarding decisions, communities should take reasonable steps to manage conflicts transparently.
+
+Rainbow Library may consider whether financial relationships create incentives to ignore or minimise misconduct.
+
+Examples may include:
+
+* donations;
+* commissions;
+* sponsorship arrangements;
+* event revenue;
+* subscription income;
+* paid roles;
+* asset sales;
+* commercial partnerships; and
+* other material financial dependencies.
+
+Financial relationships are not inherently improper.
+
+Concealing or prioritising them over serious safeguarding concerns may be.
+
+## 26. No Sublicensing
+
+A licence issued to one individual, community, organisation, or project does not automatically permit use by:
+
+* partner communities;
+* affiliated servers;
+* sister groups;
+* event organisers;
+* contractors;
+* members;
+* collaborators; or
+* related projects.
+
+Separate permission may be required.
+
+## 27. Attribution and Derivative Works
+
+Where attribution is required, it must be provided in the manner specified by the Rainbow Library.
+
+Attribution does not replace permission.
+
+Permission to use an asset does not automatically grant permission to modify, redistribute, resell, repackage, or sublicense it.
+
+## 28. Third-Party Platforms
+
+Use of Rainbow Library Assets on VRChat or another platform requires compliance with:
+
+1. this Licence;
+2. the applicable written permission; and
+3. applicable platform rules.
+
+Compliance with VRChat rules does not automatically establish compliance with Rainbow Library safeguarding requirements.
+
+Likewise, the absence of platform enforcement does not automatically establish that a community meets Rainbow Library licensing standards.
+
+## 29. Final Safeguarding Principle
+
+The Rainbow Library believes LGBTQ+ people deserve spaces where safeguarding is more than branding.
+
+A rainbow logo does not make a community safe.
+
+Calling a community inclusive does not make it accountable.
+
+Popularity does not make misconduct harmless.
+
+Friendship does not erase a conflict of interest.
+
+Revenue does not justify silence.
+
+A person's value to a community does not place them above safeguarding scrutiny.
+
+Credible evidence deserves responsible examination regardless of who is involved.
+
+The Rainbow Library therefore reserves the right to refuse, restrict, suspend, or terminate licensing where credible and relevant evidence demonstrates a substantial safeguarding or licensing risk.
+
+The Rainbow Library's goal is to maintain a space in VRChat where safety, evidence, accountability, and the wellbeing of community members take priority over reputation, influence, social connections, or profit.
+
+## 30. Rights Reserved
+
+**ALL RIGHTS RESERVED UNLESS EXPRESSLY LICENSED IN WRITING.**
+
+No use of Rainbow Library Assets should be assumed authorised merely because an asset is visible, downloadable, accessible, or already being used elsewhere.
+
+Written permission should be obtained before Rainbow Library Assets are incorporated into any world, avatar, community, organisation, event, project, product, or other work.
+
+---
+
+**RAINBOW GENERAL LICENCE**
+
+**Rainbow Library**
+discord.gg/rainbowlibrary
+rainbow-library.org
+
+### Legal Review
+
+This document is intended as a licensing and safeguarding-policy template.
+
+Before adoption as a legally binding licence, it should be reviewed by qualified legal counsel familiar with the applicable jurisdiction, particularly regarding copyright, termination rights, privacy, defamation, discrimination law, contractual enforceability, safeguarding procedures, evidence handling, and jurisdiction.
